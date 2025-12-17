@@ -68,7 +68,7 @@ Jupyter notebook and scripts provided to quickly familiarize you with the capabi
 
 ## Contact and Contributions
 
-For any inquiries, suggestions, or collaborative opportunities, please contact Seyed Kahaki either via this GitHub repo or via email (seyed.kahaki@fda.hhs.gov).
+For any inquiries, suggestions, or collaborative opportunities, please contact Seyed Kahaki or Tahsin Rahman either via this GitHub repo or via email (seyed.kahaki@fda.hhs.gov or Tahsin.Rahman@fda.hhs.gov).
 
 ---
 
