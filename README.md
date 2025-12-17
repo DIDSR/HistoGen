@@ -15,7 +15,7 @@
 
 ### Information for Developers
 Code Documentation: [Link](https://didsr.github.io/GenNuclei/index.html)
-Please refer to the code documentation and email  **[seyed.kahaki@fda.hhs.gov](mailto:seyed.kahaki@fda.hhs.gov)** if you have any questions.
+Please refer to the code documentation and email  **[seyed.kahaki@fda.hhs.gov](mailto:seyed.kahaki@fda.hhs.gov)** or **[Tahsin.Rahman@fda.hhs.gov](mailto:Tahsin.Rahman@fda.hhs.gov)** if you have any questions.
 
 ## Installation
 
