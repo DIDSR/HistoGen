@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="img/GenNuclei_title.png">
+  <img src="imgs/GenNuclei.png">
 </p>
 
 
