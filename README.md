@@ -36,22 +36,23 @@ pip install -r requirements.txt
 
 **Tested Environment:**
 - Linux (Ubuntu 22.04 LTS recommended)
-- Python 3.10+
+- Python 3.12+
 
 ### Dependencies
 
 Some key dependencies include:
 
 ```sh
-numpy==2.1.2
-opencv-python==4.11.0.86
+matplotlib==3.10.8
+mpi4py==4.1.1
+numpy==2.3.5
+opencv-contrib-python==4.12.0.88
 scikit-image==0.25.2
-scikit-learn==1.6.1
-matplotlib==3.10.1
-pyfeats==1.0.1
-mahotas==1.4.18
-torch==2.5.1
-torchvision==0.20.1
+scikit-learn==1.8.0
+scipy==1.16.3
+tensorflow==2.20.0
+torch==2.9.1
+torchvision==0.24.1
 ```
 
 (See `requirements.txt` for the full list.)
@@ -63,6 +64,15 @@ torchvision==0.20.1
 Jupyter notebook and scripts provided to quickly familiarize you with the capabilities and usage of GenNuclei:
 
 1. [Generate Nuclei Images](https://github.com/DIDSR/GenNuclei/blob/main/01_GenerateImage.ipynb)
+
+This notebook enables the following:
+
+- Load an instance segmentation mask from a `.mat` file
+- Convert the instance segmentation mask to semantic mask concatenated to horizontal and vertical map, as detailed in the paper [HoverNet](https://wrap.warwick.ac.uk/126044/1/WRAP-HoVer-Net-simultaneous-segmentation-classification-images-Graham-2019.pdf)
+- Setup a diffusion model to generate nuclei images from the mask
+- Use either a coarse or finetuned diffusion model checkpoint to generate a user specified number of nuclei images.
+- Visualize the generated images with mask overlay and outline
+- Save the generated images as 8-bit `.png` files
 
 ---
 
