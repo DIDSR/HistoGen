@@ -45,7 +45,7 @@ Some key dependencies include:
 ```sh
 matplotlib==3.10.8
 mpi4py==4.1.1
-numpy==2.3.5
+numpy==2.2.6
 opencv-contrib-python==4.12.0.88
 scikit-image==0.25.2
 scikit-learn==1.8.0
