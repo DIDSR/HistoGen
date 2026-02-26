@@ -1,36 +1,36 @@
 <p align="center">
-  <h1 align="center">GenNuclei: A Generative AI tool for for Generating Nuclei Images</h1>
+  <h1 align="center">HistoGen: A Gen. AI tool for for Generating Synthetic Histopathology Cell Nuclei Images</h1>
 </p>
 
 <p align="center">
-  <img src="imgs/GenNuclei.png">
+  <img src="imgs/HistoGen.png">
 </p>
 
 
 ## Getting Started
 
 ### General Information
-**`GenNuclei`** is an open-source computational pathology toolbox designed to support researchers and regulatory scientists in generating nuclei images. For more information, please contact: **[seyed.kahaki@fda.hhs.gov](mailto:seyed.kahaki@fda.hhs.gov)**.
+**`HistoGen`** is an open-source computational pathology toolbox designed to support researchers and regulatory scientists in generating Histopathology cell nuclei images. For more information, please contact: **[seyed.kahaki@fda.hhs.gov](mailto:seyed.kahaki@fda.hhs.gov)**.
 
 
 ### Information for Developers
-Code Documentation: [Link](https://didsr.github.io/GenNuclei/index.html)
+Code Documentation: [Link](https://didsr.github.io/HistoGen/index.html)
 Please refer to the code documentation.
 
 ## Installation
 
-To set up the GenNuclei environment, first clone this repository and navigate to the project directory:
+To set up the HistoGen environment, first clone this repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/DIDSR/GenNuclei.git
-cd GenNuclei
+git clone https://github.com/DIDSR/HistoGen.git
+cd HistoGen
 ```
 
 Create a virtual environment and install dependencies from the provided `requirements.txt`:
 
 ```bash
-python3 -m venv gennuclei_env
-source gennuclei_env/bin/activate
+python3 -m venv HistoGen_env
+source HistoGen_env/bin/activate
 pip install -r requirements.txt
 ```
 
@@ -61,9 +61,9 @@ torchvision==0.24.1
 
 ## Getting Started Examples
 
-Jupyter notebook and scripts provided to quickly familiarize you with the capabilities and usage of GenNuclei:
+Jupyter notebook and scripts provided to quickly familiarize you with the capabilities and usage of HistoGen:
 
-1. [Generate Nuclei Images](https://github.com/DIDSR/GenNuclei/blob/main/01_GenerateImage.ipynb)
+1. [Generate Nuclei Images](https://github.com/DIDSR/HistoGen/blob/main/01_GenerateImage.ipynb)
 
 This notebook enables the following:
 
@@ -95,5 +95,5 @@ For more information about the Catalog of Regulatory Science Tools, email [RST_C
 •	Recommended Citation: 
 
 ```
-U.S. Food and Drug Administration. (2024). GenNuclei: A Generative AI tool for for Generating Nuclei Images (RSTXXXX.01). https://cdrh-rst.fda.gov/TBD
+U.S. Food and Drug Administration. (2024). HistoGen: A Generative AI tool for for Generating Nuclei Images (RSTXXXX.01). https://cdrh-rst.fda.gov/TBD
 ```
