@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">HistoGen: A Gen. AI tool for for Generating Synthetic Histopathology Cell Nuclei Images</h1>
+  <h1 align="center">HistoGen: Histopathology Cell Nuclei Image Generation Tool</h1>
 </p>
 
 <p align="center">
