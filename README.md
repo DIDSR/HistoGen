@@ -14,8 +14,8 @@
 
 
 ### Information for Developers
-Code Documentation: [Link](https://didsr.github.io/HistoGen/index.html)
-Please refer to the code documentation.
+
+Please refer to the steps below for installation and usage instructions.
 
 ## Installation
 
@@ -56,6 +56,11 @@ torchvision==0.24.1
 ```
 
 (See `requirements.txt` for the full list.)
+
+The model checkpoints are available on [Huggingface](https://huggingface.co/kahaki/HistoGen).
+
+Coarse checkpoint: [model150000.pt](https://huggingface.co/kahaki/HistoGen/blob/main/model150000.pt)
+Finetuned checkpoint name: [model290000.pt](https://huggingface.co/kahaki/HistoGen/blob/main/model290000.pt)
 
 ---
 
