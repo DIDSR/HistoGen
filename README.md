@@ -90,7 +90,7 @@ For more information about the Catalog of Regulatory Science Tools, email [RST_C
 ## Tool Reference
 <!-- •	RST Reference Number: RSTXXXX.01 -->
 
-<!--•	Date of Publication: XX/XX/XXXX --?
+<!-- •	Date of Publication: XX/XX/XXXX -->
 
 •	Recommended Citation: 
 
