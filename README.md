@@ -60,6 +60,7 @@ torchvision==0.24.1
 The model checkpoints are available on [Huggingface](https://huggingface.co/kahaki/HistoGen).
 
 Coarse checkpoint: [model150000.pt](https://huggingface.co/kahaki/HistoGen/blob/main/model150000.pt)
+
 Finetuned checkpoint name: [model290000.pt](https://huggingface.co/kahaki/HistoGen/blob/main/model290000.pt)
 
 ---
