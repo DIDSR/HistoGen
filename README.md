@@ -61,7 +61,7 @@ The model checkpoints are available on [Huggingface](https://huggingface.co/kaha
 
 Coarse checkpoint: [model150000.pt](https://huggingface.co/kahaki/HistoGen/blob/main/model150000.pt)
 
-Finetuned checkpoint name: [model290000.pt](https://huggingface.co/kahaki/HistoGen/blob/main/model290000.pt)
+Finetuned checkpoint: [model290000.pt](https://huggingface.co/kahaki/HistoGen/blob/main/model290000.pt)
 
 ---
 
