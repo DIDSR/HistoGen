@@ -88,9 +88,9 @@ The enclosed tool is part of the [Catalog of Regulatory Science Tools](https://c
 For more information about the Catalog of Regulatory Science Tools, email [RST_CDRH@fda.hhs.gov](mailto:RST_CDRH@fda.hhs.gov).
 
 ## Tool Reference
-•	RST Reference Number: RSTXXXX.01
+<!-- •	RST Reference Number: RSTXXXX.01 -->
 
-•	Date of Publication: XX/XX/XXXX
+<!--•	Date of Publication: XX/XX/XXXX --?
 
 •	Recommended Citation: 
 
