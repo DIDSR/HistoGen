@@ -94,12 +94,12 @@ The enclosed tool is part of the [Catalog of Regulatory Science Tools](https://c
 For more information about the Catalog of Regulatory Science Tools, email [RST_CDRH@fda.hhs.gov](mailto:RST_CDRH@fda.hhs.gov).
 
 ## Tool Reference
-<!-- •	RST Reference Number: RSTXXXX.01 -->
+<!-- •	RST Reference Number: RST26DP02.1.254 -->
 
 <!-- •	Date of Publication: XX/XX/XXXX -->
 
 •	Recommended Citation (will be revised when the tool is posted in the RST catalog): 
 
 ```
-U.S. Food and Drug Administration. (2026). HistoGen: A Generative AI tool for for Generating Nuclei Images (RSTXXXX.01). https://cdrh-rst.fda.gov/TBD
+U.S. Food and Drug Administration. (2026). HistoGen: A Generative AI tool for for Generating Nuclei Images (RST26DP02.1.254). https://cdrh-rst.fda.gov/TBD
 ```
