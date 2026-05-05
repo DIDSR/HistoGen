@@ -96,4 +96,4 @@ For more information about the Catalog of Regulatory Science Tools, email [RST_C
 ## Tool Reference
 - RST Reference Number: RST26DP02.01
 - Date of Publication: 05/04/2026
-- Recommended Citation: U.S. Food and Drug Administration. (2026). Histopathology Cell Nuclei Image Generation Tool (RST26DP02.1.254). https://cdrh-rst.fda.gov/histogen-histopathology-cell-nuclei-image-generation-tool
+- Recommended Citation: U.S. Food and Drug Administration. (2026). HistoGen: Histopathology Cell Nuclei Image Generation Tool (RST26DP02.01). https://cdrh-rst.fda.gov/histogen-histopathology-cell-nuclei-image-generation-tool
