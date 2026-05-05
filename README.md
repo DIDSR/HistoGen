@@ -94,12 +94,6 @@ The enclosed tool is part of the [Catalog of Regulatory Science Tools](https://c
 For more information about the Catalog of Regulatory Science Tools, email [RST_CDRH@fda.hhs.gov](mailto:RST_CDRH@fda.hhs.gov).
 
 ## Tool Reference
-<!-- •	RST Reference Number: RST26DP02.1.254 -->
-
-<!-- •	Date of Publication: XX/XX/XXXX -->
-
-•	Recommended Citation (will be revised when the tool is posted in the RST catalog): 
-
-```
-U.S. Food and Drug Administration. (2026). HistoGen: A Generative AI tool for for Generating Nuclei Images (RST26DP02.1.254). https://cdrh-rst.fda.gov/histogen-histopathology-cell-nuclei-image-generation-tool
-```
+RST Reference Number: RST26DP02.01
+Date of Publication: 05/04/2026
+Recommended Citation: U.S. Food and Drug Administration. (2026). Method to Maintain Oxidative Capacity of Test Solutions for Oxidative Degradation Screening (RST26DP02.01). https://cdrh-rst.fda.gov/histogen-histopathology-cell-nuclei-image-generation-tool
