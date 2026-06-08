@@ -82,7 +82,7 @@ This notebook enables the following:
 
 ---
 
-## Contact and Contributions
+## Contact
 
 For any inquiries, suggestions, or collaborative opportunities, please contact Seyed Kahaki or Tahsin Rahman either via this GitHub repo or via email (seyed.kahaki@fda.hhs.gov or Tahsin.Rahman@fda.hhs.gov).
 
